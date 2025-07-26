@@ -1,0 +1,9 @@
+.parentContainer {
+  display: flex;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #d18542;
+  border-radius: 10px;
+}
