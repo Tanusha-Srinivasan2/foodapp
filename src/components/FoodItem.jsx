@@ -1,4 +1,4 @@
-import styles from './foodItem.module.css';
+import styles from './fooditem.module.css';
 import React from 'react';
 export default function FoodItem({food, setFoodId}){
     return (
